@@ -68,12 +68,15 @@ It demonstrates how pricing and operational adjustments impact:
 -Sustainability View
 
 # Dashboard Snapshots
-![alt text](<BUSINESS  OVERVIEW.png>)
- ![alt text](<CAPTAIN PRODUCTIVITY & EARNINGS.png>) 
- ![alt text](<CUSTOMER PRICE FAIRNESS & CHURN RISK.png>)
-![alt text](<REVENUE LEAKAGE & CANCELLATIONS.png>)
- ![alt text](<🕒   BUSINESS SUSTAINABILITY& ECOSYSTEM HEALTH.png>)
+<img width="1385" height="776" alt="BUSINESS  OVERVIEW" src="https://github.com/user-attachments/assets/09fb03a2-4874-4744-a76d-c703fbd3bb65" />
 
+<img width="1384" height="774" alt="REVENUE LEAKAGE   CANCELLATIONS" src="https://github.com/user-attachments/assets/b22f918b-694e-49e8-aca0-d4539042fa2d" />
+
+<img width="1381" height="774" alt="CAPTAIN PRODUCTIVITY   EARNINGS" src="https://github.com/user-attachments/assets/c88a5dc7-eb68-44d3-b6d9-a860f9d020e7" />
+
+<img width="1382" height="776" alt="CUSTOMER PRICE FAIRNESS   CHURN RISK" src="https://github.com/user-attachments/assets/f6f68e88-dfbc-4c9e-91e7-2ea4dbcfff48" />
+
+<img width="1379" height="775" alt="🕒   BUSINESS SUSTAINABILITY  ECOSYSTEM HEALTH" src="https://github.com/user-attachments/assets/5b63cf2c-48d2-416b-987a-3aeed57ec197" />
 
  # View Interactive Dashboard
  <a href="https://app.powerbi.com/view?r=eyJrIjoiZDJmZTkyZmItZGQyMC00NjY5LWJkZjMtOTRlMzU5Y2I0MGQ1IiwidCI6IjA4MGE5YjRhLTdiNDAtNDJmMC1hMmMwLTU4YzFhNzZmNGNiOCJ9">Click here to view Power BI Dashboard</a>
